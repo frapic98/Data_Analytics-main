@@ -3,4 +3,9 @@
 /classicML*
 /runs*
 /run*
+/tabular*ML*
+*.json
+*.pth
 /images*
+/Classic_ML_Model_NoPCA*
+/tabular_Model*

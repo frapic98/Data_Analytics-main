@@ -7,4 +7,6 @@
 *.json
 *.pth
 /images*
+/NoPCA*
+/Dnn*
 /Classic_ML_Model_NoPCA*

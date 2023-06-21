@@ -1,12 +1,8 @@
 /ml-25m*
 *.csv
 /classicML*
-/runs*
-/run*
 /tabular*ML*
 *.json
 *.pth
 /images*
-/NoPCA*
-/Dnn*
 /Classic_ML_Model_NoPCA*
